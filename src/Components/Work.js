@@ -11,7 +11,7 @@ return(
   <div className="card card-body py-5">
     <h3>What have I built?</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, eum.</p>
-    <div className="row no-gutters">
+    {/* <div className="row no-gutters">
       <div className="col-md-3">
         <a href="https://unsplash.it/1200/768.jpg?image=251" data-toggle="lightbox">
           <img src="https://unsplash.it/600.jpg?image=251" alt="" className="img-fluid"/>
@@ -32,9 +32,9 @@ return(
           <img src="https://unsplash.it/600.jpg?image=254" alt="" className="img-fluid"/>
         </a>
       </div>
-    </div>
+    </div> */}
 
-    <div className="row no-gutters">
+    {/* <div className="row no-gutters">
       <div className="col-md-3">
         <a href="https://unsplash.it/1200/768.jpg?image=255" data-toggle="lightbox">
           <img src="https://unsplash.it/600.jpg?image=255" alt="" className="img-fluid"/>
@@ -55,7 +55,7 @@ return(
           <img src="https://unsplash.it/600.jpg?image=258" alt="" className="img-fluid"/>
         </a>
       </div>
-    </div>
+    </div> */}
   </div>
 </div>
 )

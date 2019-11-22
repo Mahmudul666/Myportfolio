@@ -15,10 +15,11 @@ function Header (props){
               <div className="p-5 bg-dark text-white"/>
                 <div className="name d-flex flex-row justify-content-between align-items-center">
                   <h1 className="display-4">Mahmudul Haque</h1>
-                  <div><i className="fa fa-linkedin"></i></div>
-                  <div><i className="fa fa-facebook"></i></div>
-                  <div><i className="fa fa-google"></i></div>
-                  <div><i className="fa fa-github"></i></div>
+                  <a href="https://www.linkedin.com/in/mahmudulhaque-shagor-157186143/">< i className="fa fa-linkedin"></i></a>
+                  <a href="https://github.com/Mahmudul666"><i className="fa fa-github"></i></a>
+                  <a href="https://www.facebook.com/shagor.lve1"><i className="fa fa-facebook"></i></a>
+                  {/* <a href="https://www.linkedin.com/in/mahmudulhaque-shagor-157186143/"><i className="fa fa-google"></i></a> */}
+                  
                 </div>
               </div>
   

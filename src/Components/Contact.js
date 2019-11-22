@@ -5,12 +5,13 @@ return(
   <div id="contact" >
   <div className="card card-body bg-danger text-white py-5">
     <h2>Contact</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, dignissimos?</p>
+    <h4>Email : mahmudulhaque666@gmail.com</h4>
+    <h4>Phone No : +60109765957</h4>
   </div>
 
   <div className="card card-body py-5">
     <h3>Get in touch</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, autem.</p>
+    <h5>Feel Free to leave a message for me. Thank you very much for your visit.</h5>
     <form>
       <div className="form-group">
         <div className="input-group input-group-lg">

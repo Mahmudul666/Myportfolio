@@ -23,7 +23,7 @@ class App extends React.Component {
         <Header click = {this.toggleHandler}/>
         <Home/>
         <Resume/>
-        <Work/>
+        {/* <Work/> */}
         <Contact/>
         <Footer/>
         </div>
